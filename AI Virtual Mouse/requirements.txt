@@ -1,0 +1,9 @@
+numpy
+mediapipe
+cvzone
+opencv-python
+time
+directkeys
+math
+pyautogui
+pygetwindow

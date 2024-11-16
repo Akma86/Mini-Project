@@ -1,0 +1,6 @@
+numpy
+mediapipe
+cvzone
+opencv-python
+pyautogui
+pygetwindow
