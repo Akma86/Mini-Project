@@ -5,7 +5,9 @@ This repository contains a collection of mini projects focused on computer visio
 - Gesture Volume Control 🎶✋: Control your computer's volume using hand gestures. The system detects your hand movement to adjust the volume level in real time.
 - Virtual Mouse 🖱️👋: Move the cursor and simulate mouse clicks with your hand gestures. It’s like controlling the mouse without touching it! 
 - Dinosaur Game with Hand Gestures 🦖✋: Play the classic Dinosaur Game, but this time, control the dinosaur’s jumps using your hand gestures. 
-
+- Vehicle Counter 🚗🚙: Count the number of vehicles passing through a specific point. The system detects vehicles in real time, making it ideal for traffic monitoring.
+- Invisible 👻: Create an effect where objects appear to be invisible or transparent. This can be used for creating ghost-like or see-through visual effects in various applications.
+- 
 ### Technologies Used
 - Technologies Used 🛠️
 - Python 🐍
